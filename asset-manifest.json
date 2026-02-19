@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Time2Study/static/css/main.147094c2.css",
+    "main.js": "/Time2Study/static/js/main.a2084ab5.js",
+    "static/js/453.a5d6f2d6.chunk.js": "/Time2Study/static/js/453.a5d6f2d6.chunk.js",
+    "index.html": "/Time2Study/index.html",
+    "main.147094c2.css.map": "/Time2Study/static/css/main.147094c2.css.map",
+    "main.a2084ab5.js.map": "/Time2Study/static/js/main.a2084ab5.js.map",
+    "453.a5d6f2d6.chunk.js.map": "/Time2Study/static/js/453.a5d6f2d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147094c2.css",
+    "static/js/main.a2084ab5.js"
+  ]
+}
